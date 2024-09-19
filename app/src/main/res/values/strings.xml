@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guesser</string>
+    <string name="hint_text">Попробуйте угадать число от 1 до 100</string>
+    <string name="enter_number_description">Введите число</string>
+    <string name="submit_button_text">Угадать!</string>
+    <string name="invalid_guess">Число должно быть в диапазоне от 1 до 100</string>
+    <string name="guess_too_low">Меньше чем загаданное число</string>
+    <string name="guess_too_high">Больше чем загаданное число</string>
+    <string name="correct_guess">Поздравляем! Вы угадали число %1$d!</string>
+    <string name="play_again">Играть еще раз!</string>
+    <string name="enter_valid_number">Пожалуйста, введите корректное число</string>
+</resources>
