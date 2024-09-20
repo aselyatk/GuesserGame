@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         tvComment = findViewById(R.id.tvComment);
         etGuess = findViewById(R.id.etGuess);
 
-        // Initialize the game
+        //   Initialize the game
         startNewGame();
 
         // Set onClick listener
